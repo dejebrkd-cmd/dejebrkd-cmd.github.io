@@ -1,0 +1,16 @@
+title: Meridian Security Research
+description: Vulnerability research, malware analysis, and detection engineering.
+author: Meridian Security Research
+
+theme: jekyll-theme-hacker
+markdown: kramdown
+
+# 部署后改成你的仓库名，例如 username.github.io 就填 username.github.io
+baseurl: ""
+url: ""
+
+show_downloads: false
+google_analytics: ""
+
+exclude:
+  - README.md
